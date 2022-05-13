@@ -1,0 +1,460 @@
+[21-Feb-2022 06:52:29 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[21-Feb-2022 06:52:29 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php on line 42
+[21-Feb-2022 06:53:37 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[21-Feb-2022 06:53:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[21-Feb-2022 06:53:37 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[21-Feb-2022 06:53:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[21-Feb-2022 06:53:37 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[21-Feb-2022 06:53:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[21-Feb-2022 06:53:37 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php on line 42
+[21-Feb-2022 06:53:55 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php on line 42
+[21-Feb-2022 06:57:58 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php on line 42
+[21-Feb-2022 07:24:33 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php on line 42
+[21-Feb-2022 07:29:59 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php on line 42
+[21-Feb-2022 07:33:03 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php on line 42
+[21-Feb-2022 07:33:03 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php on line 43
+[21-Feb-2022 07:33:06 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php on line 42
+[21-Feb-2022 07:33:06 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php on line 43
+[21-Feb-2022 07:33:10 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php on line 42
+[21-Feb-2022 07:33:10 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php on line 43
+[21-Feb-2022 07:33:14 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php on line 42
+[21-Feb-2022 07:33:14 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php on line 43
+[21-Feb-2022 07:35:25 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php on line 42
+[21-Feb-2022 07:35:25 UTC] PHP Warning:  get_magic_quotes_runtime() expects exactly 0 parameters, 1 given in /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php on line 42
+[21-Feb-2022 07:37:45 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php on line 42
+[21-Feb-2022 07:37:45 UTC] PHP Warning:  get_magic_quotes_runtime() expects exactly 0 parameters, 1 given in /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php on line 42
+[21-Feb-2022 07:42:20 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php on line 43
+[21-Feb-2022 07:43:29 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php on line 43
+[21-Feb-2022 07:43:32 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php on line 43
+[21-Feb-2022 07:43:44 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php on line 43
+[21-Feb-2022 07:43:51 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php on line 43
+[21-Feb-2022 07:47:06 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php on line 48
+[21-Feb-2022 07:47:10 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php on line 48
+[21-Feb-2022 07:47:12 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php on line 48
+[21-Feb-2022 07:47:15 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php on line 48
+[21-Feb-2022 07:48:10 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php on line 48
+[21-Feb-2022 07:51:37 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function wp_slash(), 0 passed in /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php on line 59 and exactly 1 expected in /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php:42
+Stack trace:
+#0 /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php(59): wp_slash()
+#1 /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php(36): Xcrud_db->__construct('CRMtime2invest', 'time2invest2022...', 'bd_time2invest', 'localhost', 'utf8')
+#2 /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud.php(4409): Xcrud_db::get_instance(false)
+#3 /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud.php(1719): Xcrud->_get_table_info()
+#4 /home/ipd1rl8uyf5y/public_html/admin/data/pages/desarrollo.php(67): Xcrud->render()
+#5 /home/ipd1rl8uyf5y/public_html/admin/data/html/template.php(23): include('/home/ipd1rl8uy...')
+#6 /home/ipd1rl8uyf5y/public_html/admin/index.php(18): include('/home/ipd1rl8uy...')
+#7 {main}
+  thrown in /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php on line 42
+[21-Feb-2022 07:51:41 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function wp_slash(), 0 passed in /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php on line 59 and exactly 1 expected in /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php:42
+Stack trace:
+#0 /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php(59): wp_slash()
+#1 /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php(36): Xcrud_db->__construct('CRMtime2invest', 'time2invest2022...', 'bd_time2invest', 'localhost', 'utf8')
+#2 /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud.php(4409): Xcrud_db::get_instance(false)
+#3 /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud.php(1719): Xcrud->_get_table_info()
+#4 /home/ipd1rl8uyf5y/public_html/admin/data/pages/desarrollo.php(67): Xcrud->render()
+#5 /home/ipd1rl8uyf5y/public_html/admin/data/html/template.php(23): include('/home/ipd1rl8uy...')
+#6 /home/ipd1rl8uyf5y/public_html/admin/index.php(18): include('/home/ipd1rl8uy...')
+#7 {main}
+  thrown in /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php on line 42
+[21-Feb-2022 07:52:25 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function wp_slash(), 0 passed in /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php on line 58 and exactly 1 expected in /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php:42
+Stack trace:
+#0 /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php(58): wp_slash()
+#1 /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php(36): Xcrud_db->__construct('CRMtime2invest', 'time2invest2022...', 'bd_time2invest', 'localhost', 'utf8')
+#2 /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud.php(4409): Xcrud_db::get_instance(false)
+#3 /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud.php(1719): Xcrud->_get_table_info()
+#4 /home/ipd1rl8uyf5y/public_html/admin/data/pages/desarrollo.php(67): Xcrud->render()
+#5 /home/ipd1rl8uyf5y/public_html/admin/data/html/template.php(23): include('/home/ipd1rl8uy...')
+#6 /home/ipd1rl8uyf5y/public_html/admin/index.php(18): include('/home/ipd1rl8uy...')
+#7 {main}
+  thrown in /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php on line 42
+[21-Feb-2022 07:52:27 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function wp_slash(), 0 passed in /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php on line 58 and exactly 1 expected in /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php:42
+Stack trace:
+#0 /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php(58): wp_slash()
+#1 /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php(36): Xcrud_db->__construct('CRMtime2invest', 'time2invest2022...', 'bd_time2invest', 'localhost', 'utf8')
+#2 /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud.php(4409): Xcrud_db::get_instance(false)
+#3 /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud.php(1719): Xcrud->_get_table_info()
+#4 /home/ipd1rl8uyf5y/public_html/admin/data/pages/desarrollo.php(67): Xcrud->render()
+#5 /home/ipd1rl8uyf5y/public_html/admin/data/html/template.php(23): include('/home/ipd1rl8uy...')
+#6 /home/ipd1rl8uyf5y/public_html/admin/index.php(18): include('/home/ipd1rl8uy...')
+#7 {main}
+  thrown in /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php on line 42
+[21-Feb-2022 07:53:21 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php on line 67
+[21-Feb-2022 08:02:30 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php on line 67
+[21-Feb-2022 22:17:52 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[21-Feb-2022 22:17:52 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php on line 67
+[21-Feb-2022 22:17:56 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[21-Feb-2022 22:17:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[21-Feb-2022 22:17:56 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[21-Feb-2022 22:17:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[21-Feb-2022 22:17:56 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[21-Feb-2022 22:17:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[21-Feb-2022 22:17:56 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php on line 67
+[21-Feb-2022 22:22:10 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php on line 67
+[21-Feb-2022 22:23:01 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php on line 67
+[22-Feb-2022 15:53:37 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[22-Feb-2022 15:53:37 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php on line 67
+[22-Feb-2022 15:53:40 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[22-Feb-2022 15:53:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[22-Feb-2022 15:53:40 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[22-Feb-2022 15:53:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[22-Feb-2022 15:53:40 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[22-Feb-2022 15:53:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[22-Feb-2022 15:53:40 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php on line 67
+[23-Feb-2022 00:32:35 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[23-Feb-2022 00:32:35 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php on line 67
+[23-Feb-2022 00:32:39 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[23-Feb-2022 00:32:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[23-Feb-2022 00:32:39 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[23-Feb-2022 00:32:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[23-Feb-2022 00:32:39 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[23-Feb-2022 00:32:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[23-Feb-2022 00:32:39 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/ipd1rl8uyf5y/public_html/admin/xcrud/xcrud_db.php on line 67
+[23-Feb-2022 04:09:40 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[23-Feb-2022 04:09:43 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[23-Feb-2022 04:09:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[23-Feb-2022 04:09:43 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[23-Feb-2022 04:09:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[23-Feb-2022 04:09:43 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[23-Feb-2022 04:09:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[23-Feb-2022 21:53:10 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[23-Feb-2022 21:53:13 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[23-Feb-2022 21:53:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[23-Feb-2022 21:53:13 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[23-Feb-2022 21:53:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[23-Feb-2022 21:53:13 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[23-Feb-2022 21:53:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[23-Feb-2022 23:11:00 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[23-Feb-2022 23:11:02 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[23-Feb-2022 23:11:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[23-Feb-2022 23:11:02 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[23-Feb-2022 23:11:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[23-Feb-2022 23:11:02 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[23-Feb-2022 23:11:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[24-Feb-2022 17:25:03 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[24-Feb-2022 17:25:06 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[24-Feb-2022 17:25:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[24-Feb-2022 17:25:06 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[24-Feb-2022 17:25:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[24-Feb-2022 17:25:06 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[24-Feb-2022 17:25:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[26-Feb-2022 20:12:01 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[27-Feb-2022 08:32:30 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[27-Feb-2022 08:32:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[27-Feb-2022 08:32:30 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[27-Feb-2022 08:32:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[27-Feb-2022 08:32:30 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[27-Feb-2022 08:32:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[27-Feb-2022 09:06:52 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[27-Feb-2022 09:07:16 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[27-Feb-2022 09:07:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[27-Feb-2022 09:07:16 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[27-Feb-2022 09:07:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[27-Feb-2022 09:07:16 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[27-Feb-2022 09:07:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[28-Feb-2022 18:51:05 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[28-Feb-2022 18:51:07 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[28-Feb-2022 18:51:07 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[28-Feb-2022 18:51:07 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[28-Feb-2022 18:51:07 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[28-Feb-2022 18:51:07 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[28-Feb-2022 18:51:07 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[01-Mar-2022 08:10:16 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[06-Mar-2022 01:17:50 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[06-Mar-2022 01:18:15 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[06-Mar-2022 01:18:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[06-Mar-2022 01:18:15 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[06-Mar-2022 01:18:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[06-Mar-2022 01:18:15 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[06-Mar-2022 01:18:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[07-Mar-2022 17:35:51 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[07-Mar-2022 22:08:32 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[07-Mar-2022 22:08:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[07-Mar-2022 22:08:32 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[07-Mar-2022 22:08:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[07-Mar-2022 22:08:32 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[07-Mar-2022 22:08:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[08-Mar-2022 06:59:07 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[08-Mar-2022 18:34:37 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[08-Mar-2022 18:34:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[08-Mar-2022 18:34:37 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[08-Mar-2022 18:34:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[08-Mar-2022 18:34:37 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[08-Mar-2022 18:34:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[08-Mar-2022 22:34:25 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[18-Mar-2022 04:22:48 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[18-Mar-2022 04:22:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[18-Mar-2022 04:22:48 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[18-Mar-2022 04:22:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[18-Mar-2022 04:22:48 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[18-Mar-2022 04:22:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[18-Mar-2022 17:17:58 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[18-Mar-2022 17:18:02 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[18-Mar-2022 17:18:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[18-Mar-2022 17:18:02 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[18-Mar-2022 17:18:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[18-Mar-2022 17:18:02 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[18-Mar-2022 17:18:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[19-Mar-2022 05:38:14 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[19-Mar-2022 05:38:18 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[19-Mar-2022 05:38:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[19-Mar-2022 05:38:18 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[19-Mar-2022 05:38:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[19-Mar-2022 05:38:18 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[19-Mar-2022 05:38:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[19-Mar-2022 07:01:07 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[19-Mar-2022 07:01:09 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[19-Mar-2022 07:01:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[19-Mar-2022 07:01:09 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[19-Mar-2022 07:01:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[19-Mar-2022 07:01:09 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[19-Mar-2022 07:01:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[19-Mar-2022 07:37:25 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[19-Mar-2022 07:37:27 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[19-Mar-2022 07:37:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[19-Mar-2022 07:37:27 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[19-Mar-2022 07:37:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[19-Mar-2022 07:37:27 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[19-Mar-2022 07:37:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[21-Mar-2022 16:38:46 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[21-Mar-2022 16:57:53 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[21-Mar-2022 16:57:53 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[21-Mar-2022 16:57:53 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[21-Mar-2022 16:57:53 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[21-Mar-2022 16:57:53 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[21-Mar-2022 16:57:53 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[22-Mar-2022 05:21:19 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[22-Mar-2022 05:21:23 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[22-Mar-2022 05:21:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[22-Mar-2022 05:21:23 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[22-Mar-2022 05:21:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[22-Mar-2022 05:21:23 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[22-Mar-2022 05:21:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[22-Mar-2022 06:16:01 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[22-Mar-2022 06:33:03 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[23-Mar-2022 19:06:29 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[23-Mar-2022 19:06:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[23-Mar-2022 19:06:29 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[23-Mar-2022 19:06:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[23-Mar-2022 19:06:29 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[23-Mar-2022 19:06:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[24-Mar-2022 18:54:56 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[24-Mar-2022 18:54:58 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[24-Mar-2022 18:54:58 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[24-Mar-2022 18:54:58 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[24-Mar-2022 18:54:58 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[24-Mar-2022 18:54:58 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[24-Mar-2022 18:54:58 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[25-Mar-2022 03:32:26 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[26-Mar-2022 07:51:31 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[26-Mar-2022 07:51:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[26-Mar-2022 07:51:31 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[26-Mar-2022 07:51:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[26-Mar-2022 07:51:31 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[26-Mar-2022 07:51:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[27-Mar-2022 07:57:03 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[27-Mar-2022 07:57:06 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[27-Mar-2022 07:57:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[27-Mar-2022 07:57:06 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[27-Mar-2022 07:57:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[27-Mar-2022 07:57:06 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[27-Mar-2022 07:57:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[28-Mar-2022 04:11:58 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[31-Mar-2022 06:47:49 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[31-Mar-2022 06:47:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[31-Mar-2022 06:47:49 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[31-Mar-2022 06:47:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[31-Mar-2022 06:47:49 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[31-Mar-2022 06:47:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[31-Mar-2022 07:45:11 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[31-Mar-2022 07:53:19 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[31-Mar-2022 07:53:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[31-Mar-2022 07:53:19 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[31-Mar-2022 07:53:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[31-Mar-2022 07:53:19 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[31-Mar-2022 07:53:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[31-Mar-2022 14:54:35 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[31-Mar-2022 14:54:38 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[31-Mar-2022 14:54:38 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[31-Mar-2022 14:54:38 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[31-Mar-2022 14:54:38 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[31-Mar-2022 14:54:38 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[31-Mar-2022 14:54:38 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[31-Mar-2022 18:24:03 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[31-Mar-2022 18:41:46 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[31-Mar-2022 18:41:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[31-Mar-2022 18:41:46 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[31-Mar-2022 18:41:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[31-Mar-2022 18:41:46 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[31-Mar-2022 18:41:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[31-Mar-2022 20:41:46 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[03-Apr-2022 15:35:23 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[03-Apr-2022 15:35:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[03-Apr-2022 15:35:23 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[03-Apr-2022 15:35:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[03-Apr-2022 15:35:23 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[03-Apr-2022 15:35:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[05-Apr-2022 05:58:18 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[05-Apr-2022 22:17:25 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[05-Apr-2022 22:17:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[05-Apr-2022 22:17:25 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[05-Apr-2022 22:17:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[05-Apr-2022 22:17:25 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[05-Apr-2022 22:17:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[05-Apr-2022 23:06:03 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[05-Apr-2022 23:06:06 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[05-Apr-2022 23:06:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[05-Apr-2022 23:06:06 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[05-Apr-2022 23:06:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[05-Apr-2022 23:06:06 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[05-Apr-2022 23:06:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[06-Apr-2022 02:35:48 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[06-Apr-2022 02:35:51 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[06-Apr-2022 02:35:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[06-Apr-2022 02:35:51 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[06-Apr-2022 02:35:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[06-Apr-2022 02:35:51 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[06-Apr-2022 02:35:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[06-Apr-2022 03:44:32 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[06-Apr-2022 03:44:35 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[06-Apr-2022 03:44:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[06-Apr-2022 03:44:35 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[06-Apr-2022 03:44:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[06-Apr-2022 03:44:35 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[06-Apr-2022 03:44:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[08-Apr-2022 17:28:43 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[11-Apr-2022 05:15:25 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[11-Apr-2022 05:15:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[11-Apr-2022 05:15:25 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[11-Apr-2022 05:15:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[11-Apr-2022 05:15:25 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[11-Apr-2022 05:15:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[12-Apr-2022 14:20:47 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[12-Apr-2022 14:31:01 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[12-Apr-2022 14:31:10 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[12-Apr-2022 14:31:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[12-Apr-2022 14:31:10 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[12-Apr-2022 14:31:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[12-Apr-2022 14:31:10 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[12-Apr-2022 14:31:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[15-Apr-2022 14:09:14 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[15-Apr-2022 14:09:19 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[15-Apr-2022 14:09:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[15-Apr-2022 14:09:19 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[15-Apr-2022 14:09:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[15-Apr-2022 14:09:19 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[15-Apr-2022 14:09:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[15-Apr-2022 16:30:10 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[18-Apr-2022 07:31:32 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[18-Apr-2022 07:31:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[18-Apr-2022 07:31:32 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[18-Apr-2022 07:31:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[18-Apr-2022 07:31:32 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[18-Apr-2022 07:31:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[19-Apr-2022 01:27:26 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[19-Apr-2022 01:27:39 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[19-Apr-2022 01:27:56 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[19-Apr-2022 01:27:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[19-Apr-2022 01:27:56 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[19-Apr-2022 01:27:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[19-Apr-2022 01:27:56 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[19-Apr-2022 01:27:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[20-Apr-2022 00:01:26 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[20-Apr-2022 23:28:53 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[21-Apr-2022 11:50:59 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[21-Apr-2022 11:51:16 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[21-Apr-2022 11:51:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[21-Apr-2022 11:51:16 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[21-Apr-2022 11:51:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[21-Apr-2022 11:51:16 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[21-Apr-2022 11:51:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[21-Apr-2022 16:38:21 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[21-Apr-2022 16:38:37 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[21-Apr-2022 16:38:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[21-Apr-2022 16:38:37 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[21-Apr-2022 16:38:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[21-Apr-2022 16:38:37 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[21-Apr-2022 16:38:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[29-Apr-2022 21:45:38 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[29-Apr-2022 21:46:42 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[29-Apr-2022 21:46:42 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[29-Apr-2022 21:46:42 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[29-Apr-2022 21:46:42 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[29-Apr-2022 21:46:42 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[29-Apr-2022 21:46:42 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[02-May-2022 03:00:50 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[02-May-2022 21:26:34 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[02-May-2022 21:26:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[02-May-2022 21:26:34 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[02-May-2022 21:26:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[02-May-2022 21:26:34 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[02-May-2022 21:26:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[03-May-2022 00:16:52 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[03-May-2022 00:16:54 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[03-May-2022 00:16:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[03-May-2022 00:16:54 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[03-May-2022 00:16:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[03-May-2022 00:16:54 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[03-May-2022 00:16:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[03-May-2022 01:31:08 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[03-May-2022 01:31:10 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[03-May-2022 01:31:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[03-May-2022 01:31:10 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[03-May-2022 01:31:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[03-May-2022 01:31:10 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[03-May-2022 01:31:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[03-May-2022 17:16:00 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[05-May-2022 01:39:32 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[05-May-2022 01:39:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[05-May-2022 01:39:32 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[05-May-2022 01:39:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[05-May-2022 01:39:32 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[05-May-2022 01:39:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[05-May-2022 15:58:56 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[05-May-2022 15:58:59 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[05-May-2022 15:58:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[05-May-2022 15:58:59 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[05-May-2022 15:58:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[05-May-2022 15:58:59 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[05-May-2022 15:58:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[05-May-2022 18:53:56 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[05-May-2022 18:53:58 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[05-May-2022 18:53:58 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[05-May-2022 18:53:58 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[05-May-2022 18:53:58 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[05-May-2022 18:53:58 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[05-May-2022 18:53:58 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[05-May-2022 22:36:34 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[05-May-2022 22:36:36 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[05-May-2022 22:36:36 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[05-May-2022 22:36:36 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[05-May-2022 22:36:36 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[05-May-2022 22:36:36 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[05-May-2022 22:36:36 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[06-May-2022 04:06:31 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[06-May-2022 04:06:33 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[06-May-2022 04:06:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[06-May-2022 04:06:33 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[06-May-2022 04:06:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[06-May-2022 04:06:33 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[06-May-2022 04:06:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[06-May-2022 05:55:42 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[07-May-2022 00:59:55 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[07-May-2022 00:59:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[07-May-2022 00:59:55 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[07-May-2022 00:59:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[07-May-2022 00:59:55 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[07-May-2022 00:59:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[07-May-2022 04:57:21 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[10-May-2022 07:59:54 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[10-May-2022 07:59:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[10-May-2022 07:59:54 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[10-May-2022 07:59:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[10-May-2022 07:59:54 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[10-May-2022 07:59:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[11-May-2022 01:38:34 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3
+[11-May-2022 01:38:38 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[11-May-2022 01:38:38 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 42
+[11-May-2022 01:38:38 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[11-May-2022 01:38:38 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 43
+[11-May-2022 01:38:38 UTC] PHP Notice:  Undefined variable: registro in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[11-May-2022 01:38:38 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ipd1rl8uyf5y/public_html/admin/procesa_login.php on line 44
+[11-May-2022 04:47:36 UTC] PHP Notice:  Undefined index: validado in /home/ipd1rl8uyf5y/public_html/admin/_lib/secure.php on line 3

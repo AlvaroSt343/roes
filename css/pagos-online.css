@@ -1,0 +1,70 @@
+.miniform {
+    margin-top: 150px;
+}
+
+.title {
+    font-weight: 700;
+    font-size: 38px;
+    color: #001E47;
+}
+
+.subtitle {
+    font-weight: 500;
+    font-size: 22px;
+    color: rgb(53, 53, 53);
+}
+
+.iImporte {
+    border: 1px solid #3a3a3a6c;
+    border-radius: 15px;
+    width: 100%;
+    letter-spacing: 1.2px;
+    padding: 10px 15px;
+    font-size: 25px;
+    color: #0249ac;
+    transition: 200ms;
+}
+.currency{
+    font-size: 30px;
+    color: #0249ac;
+    margin-right: 5px;
+}
+.iImporte:hover {
+    border: 1px solid #001E47;
+    transition: 200ms;
+}
+
+.iImporte:focus {
+    border: 1px solid #001E47;
+    box-shadow: 0px 0px 1px 3px rgba(9,63,168,1);
+    transition: 200ms;
+}
+
+
+.btnNext {
+    font-size: 25px;
+    background-color: #001E47;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 10px;
+    transition: 200ms;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.btnNext:hover{
+    color: rgb(65, 199, 252);
+    transition: 200ms;
+}
+
+.img-c {
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.v-align {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}

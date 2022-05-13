@@ -1,0 +1,36 @@
+[10-May-2022 06:48:24 America/Cancun] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/ipd1rl8uyf5y/public_html/cotizador/pdf/fpdf.php on line 3
+[10-May-2022 06:48:24 America/Cancun] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/ipd1rl8uyf5y/public_html/cotizador/pdf/fpdf.php on line 1065
+[10-May-2022 06:48:24 America/Cancun] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/ipd1rl8uyf5y/public_html/cotizador/pdf/fpdf.php on line 1557
+[10-May-2022 13:07:27 America/Cancun] PHP Notice:  Undefined variable: utm_campaign in /home/ipd1rl8uyf5y/public_html/cotizador/index.php on line 672
+[10-May-2022 13:07:27 America/Cancun] PHP Notice:  Undefined variable: datos_notas in /home/ipd1rl8uyf5y/public_html/cotizador/index.php on line 674
+[10-May-2022 13:12:23 America/Cancun] PHP Notice:  Undefined variable: utm_campaign in /home/ipd1rl8uyf5y/public_html/cotizador/index.php on line 672
+[10-May-2022 13:12:23 America/Cancun] PHP Notice:  Undefined variable: datos_notas in /home/ipd1rl8uyf5y/public_html/cotizador/index.php on line 674
+[10-May-2022 13:20:13 America/Cancun] PHP Notice:  Undefined variable: utm_campaign in /home/ipd1rl8uyf5y/public_html/cotizador/index.php on line 672
+[10-May-2022 13:20:13 America/Cancun] PHP Notice:  Undefined variable: datos_notas in /home/ipd1rl8uyf5y/public_html/cotizador/index.php on line 674
+[10-May-2022 13:22:49 America/Cancun] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/ipd1rl8uyf5y/public_html/cotizador/pdf/fpdf.php on line 3
+[10-May-2022 13:22:49 America/Cancun] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/ipd1rl8uyf5y/public_html/cotizador/pdf/fpdf.php on line 1065
+[10-May-2022 13:22:49 America/Cancun] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/ipd1rl8uyf5y/public_html/cotizador/pdf/fpdf.php on line 1557
+[10-May-2022 13:24:11 America/Cancun] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/ipd1rl8uyf5y/public_html/cotizador/pdf/fpdf.php on line 1065
+[10-May-2022 13:24:11 America/Cancun] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/ipd1rl8uyf5y/public_html/cotizador/pdf/fpdf.php on line 1557
+[10-May-2022 13:25:57 America/Cancun] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/ipd1rl8uyf5y/public_html/cotizador/pdf/fpdf.php on line 1065
+[10-May-2022 13:25:57 America/Cancun] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/ipd1rl8uyf5y/public_html/cotizador/pdf/fpdf.php on line 1557
+[10-May-2022 13:26:00 America/Cancun] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/ipd1rl8uyf5y/public_html/cotizador/pdf/fpdf.php on line 1065
+[10-May-2022 13:26:00 America/Cancun] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/ipd1rl8uyf5y/public_html/cotizador/pdf/fpdf.php on line 1557
+[10-May-2022 13:26:13 America/Cancun] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/ipd1rl8uyf5y/public_html/cotizador/pdf/fpdf.php on line 1065
+[10-May-2022 13:26:13 America/Cancun] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/ipd1rl8uyf5y/public_html/cotizador/pdf/fpdf.php on line 1557
+[10-May-2022 13:33:39 America/Cancun] PHP Notice:  Undefined variable: utm_campaign in /home/ipd1rl8uyf5y/public_html/cotizador/index.php on line 672
+[10-May-2022 13:33:39 America/Cancun] PHP Notice:  Undefined variable: datos_notas in /home/ipd1rl8uyf5y/public_html/cotizador/index.php on line 674
+[10-May-2022 13:34:21 America/Cancun] PHP Notice:  Undefined variable: utm_campaign in /home/ipd1rl8uyf5y/public_html/cotizador/index.php on line 672
+[10-May-2022 13:34:21 America/Cancun] PHP Notice:  Undefined variable: datos_notas in /home/ipd1rl8uyf5y/public_html/cotizador/index.php on line 674
+[10-May-2022 22:05:44 America/Cancun] PHP Notice:  Undefined variable: utm_campaign in /home/ipd1rl8uyf5y/public_html/cotizador/index.php on line 672
+[10-May-2022 22:05:44 America/Cancun] PHP Notice:  Undefined variable: datos_notas in /home/ipd1rl8uyf5y/public_html/cotizador/index.php on line 674
+[10-May-2022 22:20:19 America/Cancun] PHP Notice:  Undefined variable: utm_campaign in /home/ipd1rl8uyf5y/public_html/cotizador/index.php on line 672
+[10-May-2022 22:20:19 America/Cancun] PHP Notice:  Undefined variable: datos_notas in /home/ipd1rl8uyf5y/public_html/cotizador/index.php on line 674
+[11-May-2022 02:31:01 America/Cancun] PHP Notice:  Undefined variable: utm_campaign in /home/ipd1rl8uyf5y/public_html/cotizador/index.php on line 672
+[11-May-2022 02:31:01 America/Cancun] PHP Notice:  Undefined variable: datos_notas in /home/ipd1rl8uyf5y/public_html/cotizador/index.php on line 674
+[11-May-2022 02:42:07 America/Cancun] PHP Notice:  Undefined variable: utm_campaign in /home/ipd1rl8uyf5y/public_html/cotizador/index.php on line 672
+[11-May-2022 02:42:07 America/Cancun] PHP Notice:  Undefined variable: datos_notas in /home/ipd1rl8uyf5y/public_html/cotizador/index.php on line 674
+[11-May-2022 03:14:59 America/Cancun] PHP Notice:  Undefined variable: utm_campaign in /home/ipd1rl8uyf5y/public_html/cotizador/index.php on line 672
+[11-May-2022 03:14:59 America/Cancun] PHP Notice:  Undefined variable: datos_notas in /home/ipd1rl8uyf5y/public_html/cotizador/index.php on line 674
+[11-May-2022 03:20:26 America/Cancun] PHP Notice:  Undefined variable: utm_campaign in /home/ipd1rl8uyf5y/public_html/cotizador/index.php on line 672
+[11-May-2022 03:20:26 America/Cancun] PHP Notice:  Undefined variable: datos_notas in /home/ipd1rl8uyf5y/public_html/cotizador/index.php on line 674
